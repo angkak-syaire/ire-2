@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angkak-syaire.github.io/ire-2/sitemap.xml
